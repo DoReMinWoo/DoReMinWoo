@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=CCFFCC&text=DoReMinWoo&fontAlign=70&fontAlignY=20&fontSize=55&desc=AndroidDeveloper&&descAlign=70&descAlignY=45&rotate=9&height=150)
 
 <div align=center>
-📚 <b>##Language</b> <br>
+## 📚 <b>Language</b> <br>
   <img src="https://img.shields.io/badge/Java-007396?&style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
   <br>
