@@ -2,8 +2,8 @@
 
 <div align=center>
 📚 <b>Language</b> <br>
-  <img src="https://img.shields.io/badge/Java-007396?&style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?&style=flat-square&logo=OpenJDK&logoColor=white"/>
   <br>
   <br>
 🛠 <b>Tools</b> <br>
