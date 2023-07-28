@@ -12,18 +12,13 @@
 </div>
 <br><br><br>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Do-Re-Min-Woo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br> <br>
 <div>
   <b>Experience</b> <br>
   - 멋쟁이사자처럼 TECH!T 안드로이드 앱스쿨 2기
-  
-  
 </div>
-<br> <br>
-
-
 <br><br>
 <!--
 ![header](https://capsule-render.vercel.app/api?type=slice&color=CCFFCC&reversal=true&section=footer&height=150)
