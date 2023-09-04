@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=CCFFCC&text=DoReMinWoo&fontAlign=70&fontAlignY=20&fontSize=55&desc=AndroidDeveloper&&descAlign=70&descAlignY=45&rotate=9&height=150)
+![header](https://capsule-render.vercel.app/api?type=slice&color=CCFFCC&text=DoReMinWoo&fontAlign=70&fontAlignY=20&fontSize=55&desc=Android_Developer&&descAlign=70&descAlignY=45&rotate=9&height=150)
 
 <div align=center>
 📚 <b>Language</b> <br>
@@ -12,11 +12,9 @@
 </div>
 <br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Do-Re-Min-Woo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <br> <br>
 <div>
-  <b>Experience</b> <br>
+  <b> :airplane: Experience</b> <br>
   - 멋쟁이사자처럼 TECH!T 안드로이드 앱스쿨 2기
 </div>
 <br><br>
