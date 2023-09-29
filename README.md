@@ -16,6 +16,7 @@
 <div>
   <b> :airplane: Experience</b> <br>
   - SOPT 33기 창업동아리 (23.09 ~ 24.01)
+  <br>
   - 멋쟁이사자처럼 TECH!T 안드로이드 앱스쿨 2기 (23.04 ~ 23.09)
 </div>
 <br><br>
